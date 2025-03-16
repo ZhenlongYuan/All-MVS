@@ -3,19 +3,13 @@
 > Contributions welcomed!
 >
 > Benchmark [Benchmark](#Benchmark)
+>
+> 
+> Traditional [2024](#2024-1) | [2023](#2023-1) | [2022](#2022-1) | [2021](#2021-1) | [2020](#2020-1) | [2019](#2019-1) | [2018](#2018-1) | [Early](#early)
 > 
 > Learning-based [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017)
->
-> Traditional [2024](#2024-1) | [2023](#2023-1) | [2022](#2022-1) | [2021](#2021-1) | [2020](#2020-1) | [2019](#2019-1) | [2018](#2018-1) | [Early](#early)
 
 ### Benchmark
-
-+ **Middlebury** [CVPR06']
-  + A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms [[paper](https://vision.middlebury.edu/mview/seitz_mview_cvpr06.pdf)] [[website](https://vision.middlebury.edu/mview/)]
-
-+ **EPFL** [CVPR08']
-  + On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery [[paper](https://infoscience.epfl.ch/record/126393)]
- <!-- [Strecha] [Fountain] -->
 
 + **DTU** [CVPR2014, IJCV2016]
   + Large-scale data for multiple-view stereopsis [paper: [CVPR2014](https://roboimagedata2.compute.dtu.dk/data/text/multiViewCVPR2014.pdf), [IJCV2016](https://link.springer.com/content/pdf/10.1007/s11263-016-0902-9.pdf)] [[website](http://roboimagedata.compute.dtu.dk/?page_id=36)] [[Eval code](https://github.com/Todd-Qi/MVSNet-PyTorch/tree/master/evaluations/dtu)] [[video](https://www.bilibili.com/video/BV1k5411G7NA/)]
@@ -29,6 +23,12 @@
 + **BlendedMVS** [CVPR2020]
   + BlendedMVS: A Large-Scale Dataset for Generalized Multi-View Stereo Network [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_BlendedMVS_A_Large-Scale_Dataset_for_Generalized_Multi-View_Stereo_Networks_CVPR_2020_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yao_BlendedMVS_A_Large-Scale_CVPR_2020_supplemental.pdf)] [[Github](https://github.com/YoYo000/BlendedMVS)] [[visual](https://github.com/kwea123/BlendedMVS_scenes)] 
 
++ **Strecha** [CVPR08']
+  + On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery [[paper](https://infoscience.epfl.ch/record/126393)] [[website](https://www.epfl.ch/labs/cvlab/data/data-strechamvs/)]
+
++ **Middlebury** [CVPR06']
+  + A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms [[paper](https://vision.middlebury.edu/mview/seitz_mview_cvpr06.pdf)] [[website](https://vision.middlebury.edu/mview/)]
+ 
 + **GigaMVS** [T-PAMI2021]
   + GigaMVS: A Benchmark for Ultra-large-scale Gigapixel-level 3D Reconstruction [[paper](https://ieeexplore.ieee.org/document/9547729)] [[website](http://www.gigamvs.com/)]
 
