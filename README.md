@@ -40,18 +40,18 @@
 ### 2025
 
 + **DVP-MVS** [AAAI2025]
-  +  DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo [[Paper](https://arxiv.org/pdf/2412.11578)]
+  +  DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo [[Paper](https://arxiv.org/pdf/2412.11578)][[GitHub](https://github.com/ZhenlongYuan/DVP-MVS)]
 
 + **MSP-MVS** [AAAI2025]
-  +  MSP-MVS: Multi-Granularity Segmentation Prior Guided Multi-View Stereo [[Paper](https://arxiv.org/pdf/2407.19323)]
+  +  MSP-MVS: Multi-Granularity Segmentation Prior Guided Multi-View Stereo [[Paper](https://arxiv.org/pdf/2407.19323)][[GitHub](https://github.com/ZhenlongYuan/MSP-MVS)]
 
 ### 2024
 
 + **SD-MVS** [AAAI2024]
-  +  SD-MVS: Segmentation-Driven Deformation Multi-View Stereo with Spherical Refinement and EM optimization [[Paper](https://arxiv.org/pdf/2401.06385)]
+  +  SD-MVS: Segmentation-Driven Deformation Multi-View Stereo with Spherical Refinement and EM optimization [[Paper](https://arxiv.org/pdf/2401.06385)][[GitHub](https://github.com/ZhenlongYuan/SD-MVS)]
 
 + **TSAR-MVS** [PR2024]
-  +  TSAR-MVS: Textureless-aware Segmentation and Correlative Refinement Guided Multi-View Stereo [[Paper](https://arxiv.org/abs/2308.09990)]
+  +  TSAR-MVS: Textureless-aware Segmentation and Correlative Refinement Guided Multi-View Stereo [[Paper](https://arxiv.org/abs/2308.09990)][[GitHub](https://github.com/ZhenlongYuan/TSAR-MVS)]
 
 + **Multiview Stereo via Noise Suppression PatchMatch** [TIM2024]
   +  Multiview Stereo via Noise Suppression PatchMatch [[Paper](https://ieeexplore.ieee.org/abstract/document/10443640)]
