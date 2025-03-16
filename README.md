@@ -49,6 +49,12 @@
 - [Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [[GitHub stars](https://img.shields.io/github/stars/Wuuu3511/GoMVS?logo=github&label=Stars)](https://github.com/Wuuu3511/GoMVS)
 - [[Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://wuuu3511.github.io/gomvs/)
 
+#### GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2024-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2404.07992-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2404.07992)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/Wuuu3511/GoMVS?logo=github&label=Stars)](https://github.com/Wuuu3511/GoMVS)
+- [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://wuuu3511.github.io/gomvs/)
+
 #### Multi-View Stereo Reconstruction Based on Adaptive Aggregation and Coordinate Attention Mechanism - [AC-MVSNet]
 
 - ![Publication](https://img.shields.io/badge/2024-ICCECT-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/10546032)
