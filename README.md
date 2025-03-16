@@ -23,10 +23,10 @@
 + **BlendedMVS** [CVPR2020]
   + BlendedMVS: A Large-Scale Dataset for Generalized Multi-View Stereo Network [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_BlendedMVS_A_Large-Scale_Dataset_for_Generalized_Multi-View_Stereo_Networks_CVPR_2020_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yao_BlendedMVS_A_Large-Scale_CVPR_2020_supplemental.pdf)] [[Github](https://github.com/YoYo000/BlendedMVS)] [[visual](https://github.com/kwea123/BlendedMVS_scenes)] 
 
-+ **Strecha** [CVPR08']
++ **Strecha** [CVPR2008]
   + On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery [[paper](https://infoscience.epfl.ch/record/126393)] [[website](https://www.epfl.ch/labs/cvlab/data/data-strechamvs/)]
 
-+ **Middlebury** [CVPR06']
++ **Middlebury** [CVPR2006]
   + A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms [[paper](https://vision.middlebury.edu/mview/seitz_mview_cvpr06.pdf)] [[website](https://vision.middlebury.edu/mview/)]
  
 + **GigaMVS** [T-PAMI2021]
@@ -39,12 +39,15 @@
 
 ### 2024
 
-#### GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo
+  + 💻 SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ji_SurfaceNet_An_End-To-End_ICCV_2017_paper.pdf)] [[Github](https://github.com/mjiUST/SurfaceNet)] [[T-PAMI](https://ieeexplore.ieee.org/document/9099504)]
+  + Learning a Multi-View Stereo Machine [[paper](https://papers.nips.cc/paper/2017/file/9c838d2e45b2ad1094d42f4ef36764f6-Paper.pdf)] (LSMs can produce two kinds of outputs - *voxel occupancy grids* decoded from 3D Grid or *per-view depth maps* decoded after a projection operation.)
+  + Learned Multi-Patch Similarity [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Hartmann_Learned_Multi-Patch_Similarity_ICCV_2017_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_ICCV_2017/supplemental/Hartmann_Learned_Multi-Patch_Similarity_ICCV_2017_supplemental.pdf)] (Note: Learning to measure multi-image patch similiarity, NOT end-to-end learning MVS pipeline)
 
-- ![Publication](https://img.shields.io/badge/2024-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2404.07992-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2404.07992)
-- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/Wuuu3511/GoMVS?logo=github&label=Stars)](https://github.com/Wuuu3511/GoMVS)
-- [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://wuuu3511.github.io/gomvs/)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202404132156724.png)
+
+  + 💻 GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo
+- [Publication](https://img.shields.io/badge/2024-CVPR-43aa8b)  [[Paper](http://img.shields.io/badge/arxiv-arxiv.2404.07992-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2404.07992)
+- [Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [[GitHub stars](https://img.shields.io/github/stars/Wuuu3511/GoMVS?logo=github&label=Stars)](https://github.com/Wuuu3511/GoMVS)
+- [[Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://wuuu3511.github.io/gomvs/)
 
 #### Multi-View Stereo Reconstruction Based on Adaptive Aggregation and Coordinate Attention Mechanism - [AC-MVSNet]
 
