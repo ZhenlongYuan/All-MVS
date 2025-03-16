@@ -2,13 +2,13 @@
 
 > Contributions welcomed!
 >
-> [Benchmark](#Benchmark)
+> Benchmark [Benchmark](#Benchmark)
 > 
 > Learning-based [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017)
 >
 > Traditional [2024](#2024-1) | [2023](#2023-1) | [2022](#2022-1) | [2021](#2021-1) | [2020](#2020-1) | [2019](#2019-1) | [2018](#2018-1) | [Early](#early)
 
-### Multi-view Stereo Benchmark
+### Benchmark
 
 + **Middlebury** [CVPR06']
   + A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms [[paper](https://vision.middlebury.edu/mview/seitz_mview_cvpr06.pdf)] [[website](https://vision.middlebury.edu/mview/)]
