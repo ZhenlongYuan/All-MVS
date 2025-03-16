@@ -12,28 +12,28 @@
 ### Benchmark
 
 + **DTU** [CVPR2014, IJCV2016]
-  + Large-scale data for multiple-view stereopsis [paper: [CVPR2014](https://roboimagedata2.compute.dtu.dk/data/text/multiViewCVPR2014.pdf), [IJCV2016](https://link.springer.com/content/pdf/10.1007/s11263-016-0902-9.pdf)] [[website](http://roboimagedata.compute.dtu.dk/?page_id=36)] [[Eval code](https://github.com/Todd-Qi/MVSNet-PyTorch/tree/master/evaluations/dtu)] [[video](https://www.bilibili.com/video/BV1k5411G7NA/)]
+  + Large-scale data for multiple-view stereopsis [[PaperCVPR](https://roboimagedata2.compute.dtu.dk/data/text/multiViewCVPR2014.pdf)], [[PaperIJCV](https://link.springer.com/content/pdf/10.1007/s11263-016-0902-9.pdf)] [[Webpage](http://roboimagedata.compute.dtu.dk/?page_id=36)] [[Eval code](https://github.com/Todd-Qi/MVSNet-PyTorch/tree/master/evaluations/dtu)] [[Video](https://www.bilibili.com/Video/BV1k5411G7NA/)]
 
 + **Tanks and Temples** [ACM ToG2017]
-  + Tanks and Temples: Benchmarking Large-Scale Scene Reconstruction  [[paper](https://docs.google.com/uc?export=download&id=0B-ePgl6HF260bGJkdFBCemRLZGM)] [[supp](https://docs.google.com/uc?export=download&id=0B-ePgl6HF260MGhQX0dCcmdHbFk)] [[website](https://www.tanksandtemples.org/)] [[Github](https://github.com/intel-isl/TanksAndTemples)] [[leaderboard](https://www.tanksandtemples.org/leaderboard/)]
+  + Tanks and Temples: Benchmarking Large-Scale Scene Reconstruction  [[Paper](https://docs.google.com/uc?export=download&id=0B-ePgl6HF260bGJkdFBCemRLZGM)] [[Supp](https://docs.google.com/uc?export=download&id=0B-ePgl6HF260MGhQX0dCcmdHbFk)] [[Webpage](https://www.tanksandtemples.org/)] [[Github](https://github.com/intel-isl/TanksAndTemples)] [[leaderboard](https://www.tanksandtemples.org/leaderboard/)]
 
 + **ETH3D** [CVPR2017]
-  + A Multi-View Stereo Benchmark with High-Resolution Images and Multi-Camera Videos [[paper](https://www.eth3d.net/data/schoeps2017cvpr.pdf)] [[supp](https://www.eth3d.net/data/schoeps2017cvpr-supp.pdf)] [[website](https://www.eth3d.net/)] [[Github](https://github.com/ETH3D)]
+  + A Multi-View Stereo Benchmark with High-Resolution Images and Multi-Camera Videos [[Paper](https://www.eth3d.net/data/schoeps2017cvpr.pdf)] [[Supp](https://www.eth3d.net/data/schoeps2017cvpr-Supp.pdf)] [[Webpage](https://www.eth3d.net/)] [[Github](https://github.com/ETH3D)]
 
 + **BlendedMVS** [CVPR2020]
-  + BlendedMVS: A Large-Scale Dataset for Generalized Multi-View Stereo Network [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_BlendedMVS_A_Large-Scale_Dataset_for_Generalized_Multi-View_Stereo_Networks_CVPR_2020_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yao_BlendedMVS_A_Large-Scale_CVPR_2020_supplemental.pdf)] [[Github](https://github.com/YoYo000/BlendedMVS)] [[visual](https://github.com/kwea123/BlendedMVS_scenes)] 
+  + BlendedMVS: A Large-Scale Dataset for Generalized Multi-View Stereo Network [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Yao_BlendedMVS_A_Large-Scale_Dataset_for_Generalized_Multi-View_Stereo_Networks_CVPR_2020_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/Supplemental/Yao_BlendedMVS_A_Large-Scale_CVPR_2020_Supplemental.pdf)] [[Github](https://github.com/YoYo000/BlendedMVS)] [[visual](https://github.com/kwea123/BlendedMVS_scenes)] 
 
 + **Strecha** [CVPR2008]
-  + On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery [[paper](https://infoscience.epfl.ch/record/126393)] [[website](https://www.epfl.ch/labs/cvlab/data/data-strechamvs/)]
+  + On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery [[Paper](https://infoscience.epfl.ch/record/126393)] [[Webpage](https://www.epfl.ch/labs/cvlab/data/data-strechamvs/)]
 
 + **Middlebury** [CVPR2006]
-  + A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms [[paper](https://vision.middlebury.edu/mview/seitz_mview_cvpr06.pdf)] [[website](https://vision.middlebury.edu/mview/)]
+  + A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms [[Paper](https://vision.middlebury.edu/mview/seitz_mview_cvpr06.pdf)] [[Webpage](https://vision.middlebury.edu/mview/)]
  
 + **GigaMVS** [T-PAMI2021]
-  + GigaMVS: A Benchmark for Ultra-large-scale Gigapixel-level 3D Reconstruction [[paper](https://ieeexplore.ieee.org/document/9547729)] [[website](http://www.gigamvs.com/)]
+  + GigaMVS: A Benchmark for Ultra-large-scale Gigapixel-level 3D Reconstruction [[Paper](https://ieeexplore.ieee.org/document/9547729)] [[Webpage](http://www.gigamvs.com/)]
 
 + **Multi-sensor large-scale dataset for multi-view 3D reconstruction** [CVPR2023]
-  + Multi-sensor large-scale dataset for multi-view 3D reconstruction [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Voynov_Multi-Sensor_Large-Scale_Dataset_for_Multi-View_3D_Reconstruction_CVPR_2023_paper.pdf)] [[website](https://skoltech3d.appliedai.tech/)]
+  + Multi-sensor large-scale dataset for multi-view 3D reconstruction [[Paper](https://openaccess.thecvf.com/content/CVPR2023/Papers/Voynov_Multi-Sensor_Large-Scale_Dataset_for_Multi-View_3D_Reconstruction_CVPR_2023_Paper.pdf)] [[Webpage](https://skoltech3d.appliedai.tech/)]
 
 ## Traditional MVS Methods (PatchMatch-based)
 
@@ -57,18 +57,18 @@
   +  Multiview Stereo via Noise Suppression PatchMatch [[Paper](https://ieeexplore.ieee.org/abstract/document/10443640)]
 
 + **PolarPMS** [WACV2024]
-  +  Polarimetric PatchMatch Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Zhao_Polarimetric_PatchMatch_Multi-View_Stereo_WACV_2024_paper.pdf)][[Webpage](http://www.ok.sc.e.titech.ac.jp/res/PolarPMS/)
+  +  Polarimetric PatchMatch Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/WACV2024/Papers/Zhao_Polarimetric_PatchMatch_Multi-View_Stereo_WACV_2024_Paper.pdf)][[Webpage](http://www.ok.sc.e.titech.ac.jp/res/PolarPMS/)]
 
 ### 2023
 
 + **HPM-MVS** [ICCV2023]
-  +  Hierarchical Prior Mining for Non-local Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ren_Hierarchical_Prior_Mining_for_Non-local_Multi-View_Stereo_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Ren_Hierarchical_Prior_Mining_ICCV_2023_supplemental.pdf) [[Paper](https://arxiv.org/abs/2303.09758)][[GitHub](https://github.com/CLinvx/HPM-MVS)]
+  +  Hierarchical Prior Mining for Non-local Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/ICCV2023/Papers/Ren_Hierarchical_Prior_Mining_for_Non-local_Multi-View_Stereo_ICCV_2023_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/Supplemental/Ren_Hierarchical_Prior_Mining_ICCV_2023_Supplemental.pdf)] [[Paper](https://arxiv.org/abs/2303.09758)][[GitHub](https://github.com/CLinvx/HPM-MVS)]
 
 + **Hybrid-MVS** [TCSVT2023]
   + Hybrid-MVS: Robust Multi-View Reconstruction with Hybrid Optimization of Visual and Depth Cues [[Paper](https://ieeexplore.ieee.org/abstract/document/10126077)]
 
 + **APD-MVS** [CVPR2023]
-  +  Adaptive Patch Deformation for Textureless-Resilient Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Adaptive_Patch_Deformation_for_Textureless-Resilient_Multi-View_Stereo_CVPR_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Wang_Adaptive_Patch_Deformation_CVPR_2023_supplemental.pdf)][[GitHub](https://github.com/whoiszzj/APD-MVS)]
+  +  Adaptive Patch Deformation for Textureless-Resilient Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/CVPR2023/Papers/Wang_Adaptive_Patch_Deformation_for_Textureless-Resilient_Multi-View_Stereo_CVPR_2023_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2023/Supplemental/Wang_Adaptive_Patch_Deformation_CVPR_2023_Supplemental.pdf)][[GitHub](https://github.com/whoiszzj/APD-MVS)]
 
 + **HQP-MVS** [ICASSP2023]
   + HQP-MVS:High-Quality Plane Priors Assisted Multi-View Stereo for Low-Textured Areas [[Paper](https://ieeexplore.ieee.org/document/10121017)]
@@ -107,7 +107,7 @@
 ### 2020
 
 + **MG-MVS** [CVPR2020]
-  +  Mesh-Guided Multi-View Stereo with Pyramid Architecture [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Mesh-Guided_Multi-View_Stereo_With_Pyramid_Architecture_CVPR_2020_paper.pdf)]
+  +  Mesh-Guided Multi-View Stereo with Pyramid Architecture [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Wang_Mesh-Guided_Multi-View_Stereo_With_Pyramid_Architecture_CVPR_2020_Paper.pdf)]
 
 + **ACMP** [AAAI2020]
   +  Planar Prior Assisted PatchMatch Multi-View Stereo [[Paper](https://aaai.org/ojs/index.php/AAAI/article/view/6940/6794)] [[GitHub](https://github.com/GhiXu/ACMP)]
@@ -116,7 +116,7 @@
   +  DeepC-MVS: Deep Confidence Prediction for Multi-View Stereo Reconstruction [[Paper](https://ieeexplore.ieee.org/document/9320407)]
 
 + **MARMVS** [CVPR2020]
-  + MARMVS: Matching Ambiguity Reduced Multiple View Stereo for Efficient Large Scale Scene Reconstruction [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_MARMVS_Matching_Ambiguity_Reduced_Multiple_View_Stereo_for_Efficient_Large_CVPR_2020_paper.pdf)][[Video](https://www.youtube.com/watch?v=r_QZwNbi4m8)]
+  + MARMVS: Matching Ambiguity Reduced Multiple View Stereo for Efficient Large Scale Scene Reconstruction [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Xu_MARMVS_Matching_Ambiguity_Reduced_Multiple_View_Stereo_for_Efficient_Large_CVPR_2020_Paper.pdf)][[Video](https://www.youtube.com/watch?v=r_QZwNbi4m8)]
 
 + **CLD-MVS** [TIP2020]
   +  Confidence-Based Large-Scale Dense Multi-View Stereo [[Paper](https://ieeexplore.ieee.org/abstract/document/9112642/)]
@@ -127,16 +127,16 @@
 ### 2019
 
 + **ACMM, ACMH** [CVPR2019]
-  +  Multi-Scale Geometric Consistency Guided Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Multi-Scale_Geometric_Consistency_Guided_Multi-View_Stereo_CVPR_2019_paper.pdf) [[Paper](https://arxiv.org/abs/1904.08103)][[GitHub](https://github.com/GhiXu/ACMM)][[GitHub](https://github.com/GhiXu/ACMH)]
+  +  Multi-Scale Geometric Consistency Guided Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/Papers/Xu_Multi-Scale_Geometric_Consistency_Guided_Multi-View_Stereo_CVPR_2019_Paper.pdf) [[Paper](https://arxiv.org/abs/1904.08103)][[GitHub](https://github.com/GhiXu/ACMM)][[GitHub](https://github.com/GhiXu/ACMH)]
 
 + **TAPA-MVS** [ICCV2019]
-  +  TAPA-MVS: Textureless-Aware PAtchMatch Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_Multi-View_Stereo_ICCV_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_ICCV_2019_supplemental.pdf)]
+  +  TAPA-MVS: Textureless-Aware PAtchMatch Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/Papers/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_Multi-View_Stereo_ICCV_2019_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/Supplemental/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_ICCV_2019_Supplemental.pdf)]
 
 + **PCFMVS** [GCPR2019]
   +  Plane Completion and Filtering for Multi-View Stereo Reconstruction [[Paper](https://dl.acm.org/doi/abs/10.1007/978-3-030-33676-9_2)]
  
 + **PLC** [PG2019]
-  +  Pyramid Multi-View Stereo with Local Consistency [[Paper](http://graphvision.whu.edu.cn/papers/paper1245_CRC.pdf)]
+  +  Pyramid Multi-View Stereo with Local Consistency [[Paper](http://graphvision.whu.edu.cn/Papers/Paper1245_CRC.pdf)]
 
 ### 2018
 
@@ -148,16 +148,16 @@
   + Multi-View Stereo Combined with Space Propagation and Pixel-Level Refinement [[Paper](https://ieeexplore.ieee.org/document/8575825)]
 
 + **COLMAP** [ECCV2016]
-  +  Pixelwise View Selection for Unstructured Multi-View Stereo [[Paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46487-9_31.pdf)][[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2016/supplemental/Schonberger_Structure-From-Motion_Revisited_2016_CVPR_supplemental.zip)][[GitHub](https://github.com/colmap/colmap)]
+  +  Pixelwise View Selection for Unstructured Multi-View Stereo [[Paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46487-9_31.pdf)][[Paper](https://openaccess.thecvf.com/content_cvpr_2016/Papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2016/Supplemental/Schonberger_Structure-From-Motion_Revisited_2016_CVPR_Supplemental.zip)][[GitHub](https://github.com/colmap/colmap)]
  
 + **A TV Prior for High-Quality Scalable Multi-View Stereo Reconstruction** [IJCV2016]
-  +  A TV Prior for High-Quality Scalable Multi-View Stereo Reconstruction [[Paper](https://www.cs.middlebury.edu/~schar/papers/Kuhn-3DV-2014.pdf)]
+  +  A TV Prior for High-Quality Scalable Multi-View Stereo Reconstruction [[Paper](https://www.cs.middlebury.edu/~schar/Papers/Kuhn-3DV-2014.pdf)]
  
 + **Gipuma** [ICCV2015]
-  +  Massively Parallel Multiview Stereopsis by Surface Normal Diffusion [[Paper](https://prs.igp.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/galliani-lasinger-iccv15.pdf)] [[Supp](http://www.prs.igp.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/galliani-lasinger-supplementary-iccv15.pdf)][[GitHub](https://github.com/kysucix/gipuma)] [[GitHub](https://github.com/kysucix/fusibile)]
+  +  Massively Parallel Multiview Stereopsis by Surface Normal Diffusion [[Paper](https://prs.igp.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/galliani-lasinger-iccv15.pdf)] [[Supp](http://www.prs.igp.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/galliani-lasinger-Supplementary-iccv15.pdf)][[GitHub](https://github.com/kysucix/gipuma)] [[GitHub](https://github.com/kysucix/fusibile)]
 
-+ **Patchmatch stereo-stereo matching with slanted support windows** [BMVC2011]
-  +  Patchmatch stereo-stereo matching with slanted support windows [[Paper](http://www.bmva.org/bmvc/2011/proceedings/paper14/paper14.pdf)][[GitHub](https://github.com/ethan-li-coding/PatchMatchStereo)]
++ **Patchmatch stereo-stereo matching with slanted Support windows** [BMVC2011]
+  +  Patchmatch stereo-stereo matching with slanted Support windows [[Paper](http://www.bmva.org/bmvc/2011/proceedings/Paper14/Paper14.pdf)][[GitHub](https://github.com/ethan-li-coding/PatchMatchStereo)]
 
 + **Tola / EMVS** [MV&A2011]
   +  Efficient Large-scale Multi-View Stereo for Ultra High-resolution Image Sets [[Paper](https://link.springer.com/article/10.1007/s00138-011-0346-8)]
@@ -200,10 +200,10 @@
   + Learning Deformable Hypothesis Sampling for Accurate PatchMatch[[Paper](https://arxiv.org/abs/2312.15970)][[GitHub](https://github.com/Geo-Tell/DS-PMNet)]
  
 + **HAMMER** [WACV2024]
-  + HAMMER: Learning Entropy Maps to Create Accurate 3D Models in Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Weilharter_HAMMER_Learning_Entropy_Maps_To_Create_Accurate_3D_Models_in_WACV_2024_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/WACV2024/supplemental/Weilharter_HAMMER_Learning_Entropy_WACV_2024_supplemental.pdf)]
+  + HAMMER: Learning Entropy Maps to Create Accurate 3D Models in Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/WACV2024/Papers/Weilharter_HAMMER_Learning_Entropy_Maps_To_Create_Accurate_3D_Models_in_WACV_2024_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/WACV2024/Supplemental/Weilharter_HAMMER_Learning_Entropy_WACV_2024_Supplemental.pdf)]
 
 + **GC-MVSNet** []
-  +  GC-MVSNet: Multi-View, Multi-Scale, Geometrically-Consistent Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Vats_GC-MVSNet_Multi-View_Multi-Scale_Geometrically-Consistent_Multi-View_Stereo_WACV_2024_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/WACV2024/supplemental/Vats_GC-MVSNet_Multi-View_Multi-Scale_WACV_2024_supplemental.pdf)] 
+  +  GC-MVSNet: Multi-View, Multi-Scale, Geometrically-Consistent Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/WACV2024/Papers/Vats_GC-MVSNet_Multi-View_Multi-Scale_Geometrically-Consistent_Multi-View_Stereo_WACV_2024_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/WACV2024/Supplemental/Vats_GC-MVSNet_Multi-View_Multi-Scale_WACV_2024_Supplemental.pdf)] 
 [[GitHub](https://github.com/vkvats/GC-MVSNet)]
 
 ### 2023
@@ -215,13 +215,13 @@
   +  S-OmniMVS: Incorporating Sphere Geometry into Omnidirectional Stereo Matching [[Paper](https://dl.acm.org/doi/10.1145/3581783.3612381)]
 
 + **ET-MVSNet** [ICCV2023]
-  +  When Epipolar Constraint Meets Non-Local Operators in Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_When_Epipolar_Constraint_Meets_Non-Local_Operators_in_Multi-View_Stereo_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Liu_When_Epipolar_Constraint_ICCV_2023_supplemental.pdf)] [[GitHub](https://github.com/TQTQliu/ET-MVSNet)]
+  +  When Epipolar Constraint Meets Non-Local Operators in Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/ICCV2023/Papers/Liu_When_Epipolar_Constraint_Meets_Non-Local_Operators_in_Multi-View_Stereo_ICCV_2023_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/Supplemental/Liu_When_Epipolar_Constraint_ICCV_2023_Supplemental.pdf)] [[GitHub](https://github.com/TQTQliu/ET-MVSNet)]
 
 + **CL-MVSNet** [ICCV2023]
-  + CL-MVSNet: Unsupervised Multi-View Stereo with Dual-Level Contrastive Learning [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xiong_CL-MVSNet_Unsupervised_Multi-View_Stereo_with_Dual-Level_Contrastive_Learning_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Xiong_CL-MVSNet_Unsupervised_Multi-View_Stereo_with_Dual-Level_Contrastive_Learning_ICCV_2023_supplemental.pdf)][[GitHub](https://github.com/KaiqiangXiong/CL-MVSNet)]
+  + CL-MVSNet: Unsupervised Multi-View Stereo with Dual-Level Contrastive Learning [[Paper](https://openaccess.thecvf.com/content/ICCV2023/Papers/Xiong_CL-MVSNet_Unsupervised_Multi-View_Stereo_with_Dual-Level_Contrastive_Learning_ICCV_2023_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/Supplemental/Xiong_CL-MVSNet_Unsupervised_Multi-View_Stereo_with_Dual-Level_Contrastive_Learning_ICCV_2023_Supplemental.pdf)][[GitHub](https://github.com/KaiqiangXiong/CL-MVSNet)]
 
 + **DMVSNet** [ICCV2023]
-  + Constraining Depth Map Geometry for Multi-View Stereo: A Dual-Depth Approach with Saddle-shaped Depth Cells [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_Constraining_Depth_Map_Geometry_for_Multi-View_Stereo_A_Dual-Depth_Approach_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Ye_Constraining_Depth_Map_ICCV_2023_supplemental.pdf) [[Paper](https://arxiv.org/abs/2307.09160)] [[GitHub](https://github.com/DIVE128/DMVSNet)]
+  + Constraining Depth Map Geometry for Multi-View Stereo: A Dual-Depth Approach with Saddle-shaped Depth Cells [[Paper](https://openaccess.thecvf.com/content/ICCV2023/Papers/Ye_Constraining_Depth_Map_Geometry_for_Multi-View_Stereo_A_Dual-Depth_Approach_ICCV_2023_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/Supplemental/Ye_Constraining_Depth_Map_ICCV_2023_Supplemental.pdf) [[Paper](https://arxiv.org/abs/2307.09160)] [[GitHub](https://github.com/DIVE128/DMVSNet)]
 
 + **Bi-ClueMVSNet** [IJCNN2023]
   + Bi-ClueMVSNet: Learning Bidirectional Occlusion Clues for Multi-View Stereo [[Paper](https://ieeexplore.ieee.org/abstract/document/10191325)]
@@ -270,7 +270,7 @@
   + A-SATMVSNet: An Attention-Aware Multi-View Stereo Matching Network Based on Satellite Imagery [[Paper](https://www.frontiersin.org/articles/10.3389/feart.2023.1108403/full)]
 
 + **GeoMVSNet** [CVPR2023]
-  + GeoMVSNet: Learning Multi-View Stereo with Geometry Perception [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_GeoMVSNet_Learning_Multi-View_Stereo_With_Geometry_Perception_CVPR_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Zhang_GeoMVSNet_Learning_Multi-View_CVPR_2023_supplemental.pdf)]
+  + GeoMVSNet: Learning Multi-View Stereo with Geometry Perception [[Paper](https://openaccess.thecvf.com/content/CVPR2023/Papers/Zhang_GeoMVSNet_Learning_Multi-View_Stereo_With_Geometry_Perception_CVPR_2023_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2023/Supplemental/Zhang_GeoMVSNet_Learning_Multi-View_CVPR_2023_Supplemental.pdf)]
  [[GitHub](https://github.com/doubleZ0108/GeoMVSNet)] [[Video](https://www.youtube.com/watch?v=XqLDgJAZAKc)]
 
 + **RA-MVSNet** [CVPR2023]
@@ -303,13 +303,13 @@
   +  MosaicMVS: Mosaic-based Omnidirectional Multi-View Stereo for Indoor Scenes [[Paper](https://ieeexplore.ieee.org/document/10005048)] [[GitHub](https://github.com/min-jung-shin/MosaicMVS)]
 
 + **DELS-MVS** [WACV2023]
-  + DELS-MVS: Deep Epipolar Line Search for Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Sormann_DELS-MVS_Deep_Epipolar_Line_Search_for_Multi-View_Stereo_WACV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/WACV2023/supplemental/Sormann_DELS-MVS_Deep_Epipolar_WACV_2023_supplemental.pdf)] [[Paper](https://arxiv.org/abs/2212.06626)]
+  + DELS-MVS: Deep Epipolar Line Search for Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/WACV2023/Papers/Sormann_DELS-MVS_Deep_Epipolar_Line_Search_for_Multi-View_Stereo_WACV_2023_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/WACV2023/Supplemental/Sormann_DELS-MVS_Deep_Epipolar_WACV_2023_Supplemental.pdf)] [[Paper](https://arxiv.org/abs/2212.06626)]
 
 + **360MVSNet** [WACV2023]
-  +  360MVSNet: Deep Multi-View Stereo Network with 360◦ Images for Indoor Scene Reconstruction [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Chiu_360MVSNet_Deep_Multi-View_Stereo_Network_With_360deg_Images_for_Indoor_WACV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/WACV2023/supplemental/Chiu_360MVSNet_Deep_Multi-View_WACV_2023_supplemental.pdf)][[Webpage](https://jdily.github.io/proj_site/360mvsnet_proj.html)]
+  +  360MVSNet: Deep Multi-View Stereo Network with 360◦ Images for Indoor Scene Reconstruction [[Paper](https://openaccess.thecvf.com/content/WACV2023/Papers/Chiu_360MVSNet_Deep_Multi-View_Stereo_Network_With_360deg_Images_for_Indoor_WACV_2023_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/WACV2023/Supplemental/Chiu_360MVSNet_Deep_Multi-View_WACV_2023_Supplemental.pdf)][[Webpage](https://jdily.github.io/proj_site/360mvsnet_proj.html)]
 
 + **nLMVS-Net** [WACV2023]
-  +  nLMVS-Net: Deep Non-Lambertian Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Yamashita_nLMVS-Net_Deep_Non-Lambertian_Multi-View_Stereo_WACV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/WACV2023/supplemental/Yamashita_nLMVS-Net_Deep_Non-Lambertian_WACV_2023_supplemental.zip)] [[Paper](https://arxiv.org/abs/2207.11876)][[Webpage](https://vision.ist.i.kyoto-u.ac.jp/)]
+  +  nLMVS-Net: Deep Non-Lambertian Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/WACV2023/Papers/Yamashita_nLMVS-Net_Deep_Non-Lambertian_Multi-View_Stereo_WACV_2023_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/WACV2023/Supplemental/Yamashita_nLMVS-Net_Deep_Non-Lambertian_WACV_2023_Supplemental.zip)] [[Paper](https://arxiv.org/abs/2207.11876)][[Webpage](https://vision.ist.i.kyoto-u.ac.jp/)]
 
 + **EPNet** [AAAI2023]
   +  Efﬁcient Edge-Preserving Multi-View Stereo Network for Depth Estimation [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25330)] [[GitHub](https://github.com/susuwj/EPNet)]
@@ -324,16 +324,16 @@
 
 + **GigaMVS** [TPAMI2022]
   +  GigaMVS: A Benchmark for Ultra-Large-Scale Gigapixel-Level 3D Reconstruction [[Paper](https://ieeexplore.ieee.org/abstract/document/9547729)]
- [[GitHub](https://github.com/THU-luvision/GigaMVS)] [[Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://gigavision.cn/data/news/?nav=GigaMVS%20RAWDATA)]
+ [[GitHub](https://github.com/THU-luvision/GigaMVS)] [[Webpage](https://gigavision.cn/data/news/?nav=GigaMVS%20RAWDATA)]
 
 + **Multistage Pixel-Visibility Learning With Cost Regularization for Multiview Stereo** [TASE2022]
   +  Multistage Pixel-Visibility Learning With Cost Regularization for Multiview Stereo [[Paper](https://ieeexplore.ieee.org/abstract/document/9761790)]
 
 + **Global Contextual Complementary Network for Multi-View Stereo** [BMVC2022]
-  + Global Contextual Complementary Network for Multi-View Stereo [[Paper](https://bmvc2022.mpi-inf.mpg.de/0919.pdf) [[Supp](https://bmvc2022.mpi-inf.mpg.de/0919_poster.pdf)][[Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://bmvc2022.mpi-inf.mpg.de/919/)]
+  + Global Contextual Complementary Network for Multi-View Stereo [[Paper](https://bmvc2022.mpi-inf.mpg.de/0919.pdf)] [[Supp](https://bmvc2022.mpi-inf.mpg.de/0919_poster.pdf)][[Webpage](https://bmvc2022.mpi-inf.mpg.de/919/)]
 
 + **HR-MVSNet** [BMVC2022]
-  +  Hybrid Cost Volume Regularization for Memory-efficient Multi-View Stereo Networks [[Paper](https://bmvc2022.mpi-inf.mpg.de/0073.pdf)] [[Supp](https://bmvc2022.mpi-inf.mpg.de/0073_poster.pdf)] [[Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://bmvc2022.mpi-inf.mpg.de/73/)]
+  +  Hybrid Cost Volume Regularization for Memory-efficient Multi-View Stereo Networks [[Paper](https://bmvc2022.mpi-inf.mpg.de/0073.pdf)] [[Supp](https://bmvc2022.mpi-inf.mpg.de/0073_poster.pdf)] [[Webpage](https://bmvc2022.mpi-inf.mpg.de/73/)]
 
 + **SPGNet** [CG2022]
   +  Sparse Prior Guided Deep Multi-View Stereo [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0097849322001157)]
@@ -342,13 +342,13 @@
   +  Uncertainty-guided Multi-View Stereo Network for Depth Estimation [[Paper](https://ieeexplore.ieee.org/abstract/document/9797764/)]
 
 + **BDE-MVSNet** [ACCV2022]
-  +  Adaptive Range guided Multi-View Depth Estimation with Normal Ranking Loss [[Paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Ding_Adaptive_Range_guided_Multi-view_Depth_Estimation_with_Normal_Ranking_Loss_ACCV_2022_paper.pdf)]
+  +  Adaptive Range guided Multi-View Depth Estimation with Normal Ranking Loss [[Paper](https://openaccess.thecvf.com/content/ACCV2022/Papers/Ding_Adaptive_Range_guided_Multi-view_Depth_Estimation_with_Normal_Ranking_Loss_ACCV_2022_Paper.pdf)]
 
 + **ElasticMVS** [NIPS2022]
-  +  ElasticMVS: Learning Elastic Part Representation for Self-Supervised Multi-View Stereopsis [[Paper](https://openreview.net/forum?id=lAN7mytwrIy)] [[Supp](https://openreview.net/attachment?id=lAN7mytwrIy&name=supplementary_material)]
+  +  ElasticMVS: Learning Elastic Part Representation for Self-Supervised Multi-View Stereopsis [[Paper](https://openreview.net/forum?id=lAN7mytwrIy)] [[Supp](https://openreview.net/attachment?id=lAN7mytwrIy&name=Supplementary_material)]
 
 + **WT-MVSNet** [NIPS2022]
-  +  WT-MVSNet: Window-based Transformers for Multi-View Stereo [[Paper](https://openreview.net/forum?id=EeCdsAj80Wr)] [[Supp](https://openreview.net/attachment?id=EeCdsAj80Wr&name=supplementary_material)]
+  +  WT-MVSNet: Window-based Transformers for Multi-View Stereo [[Paper](https://openreview.net/forum?id=EeCdsAj80Wr)] [[Supp](https://openreview.net/attachment?id=EeCdsAj80Wr&name=Supplementary_material)]
 
 + **Guided-MVS** [IROS2022]
   + Multi-View Guided Multi-View Stereo [[Paper](https://arxiv.org/abs/2210.11467)] [[GitHub](https://github.com/andreaconti/multi-view-guided-multi-view-stereo)]
@@ -385,7 +385,7 @@
   + DS-MVSNet: Unsupervised Multi-View Stereo via Depth Synthesis [[Paper](https://arxiv.org/abs/2208.06674)][[GitHub](https://github.com/wdkyh/DS-MVSNet)]
 
 + **IS-MVSNet** [ECCV2022]
-  + IS-MVSNet: Importance-sampling-based MVSNet [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920663.pdf)][[GitHub](https://github.com/NoOneUST/IS-MVSNet)]
+  + IS-MVSNet: Importance-sampling-based MVSNet [[Paper](https://www.ecva.net/Papers/eccv_2022/Papers_ECCV/Papers/136920663.pdf)][[GitHub](https://github.com/NoOneUST/IS-MVSNet)]
 
 + **KD-MVS** [ECCV2022]
   + KD-MVS: Knowledge Distillation Based Self-supervised Learning for Multi-View Stereo [[Paper](https://arxiv.org/abs/2207.10425)][[GitHub](https://github.com/megvii-research/KD-MVS)][[Webpage](https://dingyikang.github.io/kdmvs.github.io)]
@@ -394,7 +394,7 @@
   + Semi-supervised Deep Multi-View Stereo [[Paper](https://arxiv.org/abs/2207.11699)]
 
 + **Miper-MVS** [IS2022]
-  +  Miper-MVS: Multi-Scale Itearative Probability Estimation with Refinement for Efficient Multi-View Stereo [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4176484)][[GitHub](https://github.com/zhz120/Miper-MVS)]
+  +  Miper-MVS: Multi-Scale Itearative Probability Estimation with Refinement for Efficient Multi-View Stereo [[Paper](https://Papers.ssrn.com/sol3/Papers.cfm?abstract_id=4176484)][[GitHub](https://github.com/zhz120/Miper-MVS)]
 
 + **RC-MVSNet** [ECCV2022]
   +  RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering [[Paper](https://arxiv.org/abs/2203.03949)][[GitHub](https://github.com/Boese0601/RC-MVSNet)] [[Webpage](https://boese0601.github.io/rc-mvsnet)]
@@ -424,7 +424,7 @@
   +  MVS-T: A Coarse-to-Fine Multi-View Stereo Network with Transformer for Low-Resolution Images 3D Reconstruction [[Paper](https://www.mdpi.com/1424-8220/22/19/7659)]
 
 + **Effi-MVS** [CVPR2022]
-  +  Efficient Multi-View Stereo by Iterative Dynamic Cost Volume [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Efficient_Multi-View_Stereo_by_Iterative_Dynamic_Cost_Volume_CVPR_2022_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Wang_Efficient_Multi-View_Stereo_CVPR_2022_supplemental.pdf)][[GitHub](https://github.com/bdwsq1996/Effi-MVS)]
+  +  Efficient Multi-View Stereo by Iterative Dynamic Cost Volume [[Paper](https://openaccess.thecvf.com/content/CVPR2022/Papers/Wang_Efficient_Multi-View_Stereo_by_Iterative_Dynamic_Cost_Volume_CVPR_2022_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/Supplemental/Wang_Efficient_Multi-View_Stereo_CVPR_2022_Supplemental.pdf)][[GitHub](https://github.com/bdwsq1996/Effi-MVS)]
 
 + **NP-CVP-MVS** [CVPR2022]
   + Non-parametric Depth Distribution Modelling based Depth Inference for Multi-View Stereo [[Paper](https://arxiv.org/abs/2205.03783)][[GitHub](https://github.com/NVlabs/NP-CVP-MVSNet)]
@@ -439,22 +439,22 @@
   +  TransMVSNet: Global Context-aware Multi-View Stereo Network with Transformers [[Paper](https://arxiv.org/abs/2111.14600)][[GitHub](https://github.com/MegviiRobot/TransMVSNet)]
 
 + **IterMVS** [CVPR2022]
-  +  IterMVS: Iterative Probability Estimation for Efficient Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_IterMVS_Iterative_Probability_Estimation_for_Efficient_Multi-View_Stereo_CVPR_2022_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Wang_IterMVS_Iterative_Probability_CVPR_2022_supplemental.pdf)] [[GitHub](https://github.com/FangjinhuaWang/IterMVS)]
+  +  IterMVS: Iterative Probability Estimation for Efficient Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/CVPR2022/Papers/Wang_IterMVS_Iterative_Probability_Estimation_for_Efficient_Multi-View_Stereo_CVPR_2022_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/Supplemental/Wang_IterMVS_Iterative_Probability_CVPR_2022_Supplemental.pdf)] [[GitHub](https://github.com/FangjinhuaWang/IterMVS)]
 
 + **MaGNet** [CVPR2022]
-  +  Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Bae_Multi-View_Depth_Estimation_by_Fusing_Single-View_Depth_Probability_With_Multi-View_CVPR_2022_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Bae_Multi-View_Depth_Estimation_CVPR_2022_supplemental.pdf) [[Paper](http://arxiv.org/abs/2112.08177)][[GitHub](https://github.com/baegwangbin/MaGNet)]
+  +  Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry [[Paper](https://openaccess.thecvf.com/content/CVPR2022/Papers/Bae_Multi-View_Depth_Estimation_by_Fusing_Single-View_Depth_Probability_With_Multi-View_CVPR_2022_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/Supplemental/Bae_Multi-View_Depth_Estimation_CVPR_2022_Supplemental.pdf)] [[Paper](http://arxiv.org/abs/2112.08177)][[GitHub](https://github.com/baegwangbin/MaGNet)]
 
 + **CDS-MVSNet** [ICLR2022]
-  +  Curvature-guided dynamic scale networks for Multi-View Stereo [[Paper](https://openreview.net/pdf?id=_Wzj0J2xs2D) [[Supp](https://openreview.net/attachment?id=_Wzj0J2xs2D&name=supplementary_material)] [[GitHub](https://github.com/TruongKhang/cds-mvsnet)]
+  +  Curvature-guided dynamic scale networks for Multi-View Stereo [[Paper](https://openreview.net/pdf?id=_Wzj0J2xs2D) [[Supp](https://openreview.net/attachment?id=_Wzj0J2xs2D&name=Supplementary_material)] [[GitHub](https://github.com/TruongKhang/cds-mvsnet)]
 
 + **DDL-MVS / iMVS** [CoRR2022]
   +  DDL-MVS: Depth Discontinuity Learning for MVS Networks [[Paper](https://arxiv.org/abs/2203.01391)][[GitHub](https://github.com/Mirmix/ddlmvs)]
 
 + **PlaneMVS** [CVPR2022]
-  +  PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_PlaneMVS_3D_Plane_Reconstruction_From_Multi-View_Stereo_CVPR_2022_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Liu_PlaneMVS_3D_Plane_CVPR_2022_supplemental.pdf)]
+  +  PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/CVPR2022/Papers/Liu_PlaneMVS_3D_Plane_Reconstruction_From_Multi-View_Stereo_CVPR_2022_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/Supplemental/Liu_PlaneMVS_3D_Plane_CVPR_2022_Supplemental.pdf)]
 
 + **RayMVSNet** [CVPR2022]
-  +  RayMVSNet: Learning Ray-based 1D Implicit Fields for Accurate Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xi_RayMVSNet_Learning_Ray-Based_1D_Implicit_Fields_for_Accurate_Multi-View_Stereo_CVPR_2022_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Xi_RayMVSNet_Learning_Ray-Based_CVPR_2022_supplemental.pdf)] [[GitHub](https://github.com/Airobin329/RayMVSNet)]
+  +  RayMVSNet: Learning Ray-based 1D Implicit Fields for Accurate Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/CVPR2022/Papers/Xi_RayMVSNet_Learning_Ray-Based_1D_Implicit_Fields_for_Accurate_Multi-View_Stereo_CVPR_2022_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/Supplemental/Xi_RayMVSNet_Learning_Ray-Based_CVPR_2022_Supplemental.pdf)] [[GitHub](https://github.com/Airobin329/RayMVSNet)]
 
 + **DRI-MVSNet** [PLoS2022]
   +  DRI-MVSNet: A Depth Residual Inference Network for Multi-View Stereo Images [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8942269/pdf/pone.0264721.pdf)]
@@ -471,51 +471,51 @@
 ### 2021
 
 + **Long-range Attention Network for Multi-View Stereo** [WACV2021]
-  +  Long-range Attention Network for Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Long-Range_Attention_Network_for_Multi-View_Stereo_WACV_2021_paper.pdf)][[Video](https://www.youtube.com/watch?v=BfwBth3HgQU)]
+  +  Long-range Attention Network for Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/WACV2021/Papers/Zhang_Long-Range_Attention_Network_for_Multi-View_Stereo_WACV_2021_Paper.pdf)][[Video](https://www.youtube.com/watch?v=BfwBth3HgQU)]
 
 + **PatchMVSNet** [CVPR2021]
-  + PatchMVSNet: Patch-wise Unsupervised Multi-View Stereo for Weakly-Textured Surface Reconstruction [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_PatchmatchNet_Learned_Multi-View_Patchmatch_Stereo_CVPR_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Wang_PatchmatchNet_Learned_Multi-View_CVPR_2021_supplemental.pdf)] [[GitHub](https://github.com/FangjinhuaWang/PatchmatchNet)]
+  + PatchMVSNet: Patch-wise Unsupervised Multi-View Stereo for Weakly-Textured Surface Reconstruction [[Paper](https://openaccess.thecvf.com/content/CVPR2021/Papers/Wang_PatchmatchNet_Learned_Multi-View_Patchmatch_Stereo_CVPR_2021_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/Supplemental/Wang_PatchmatchNet_Learned_Multi-View_CVPR_2021_Supplemental.pdf)] [[GitHub](https://github.com/FangjinhuaWang/PatchmatchNet)]
 
 + **DeepVideoMVS** [CVPR2021]
-  +  DeepVideoMVS: Multi-View Stereo on Video With Recurrent Spatio-Temporal Fusion [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Duzceker_DeepVideoMVS_Multi-View_Stereo_on_Video_With_Recurrent_Spatio-Temporal_Fusion_CVPR_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Duzceker_DeepVideoMVS_Multi-View_Stereo_CVPR_2021_supplemental.pdf)] [[GitHub](https://github.com/ardaduz/deep-video-mvs)][[Video](https://www.youtube.com/watch?v=ikpotjxwcp4)
+  +  DeepVideoMVS: Multi-View Stereo on Video With Recurrent Spatio-Temporal Fusion [[Paper](https://openaccess.thecvf.com/content/CVPR2021/Papers/Duzceker_DeepVideoMVS_Multi-View_Stereo_on_Video_With_Recurrent_Spatio-Temporal_Fusion_CVPR_2021_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/Supplemental/Duzceker_DeepVideoMVS_Multi-View_Stereo_CVPR_2021_Supplemental.pdf)] [[GitHub](https://github.com/ardaduz/deep-Video-mvs)][[Video](https://www.youtube.com/watch?v=ikpotjxwcp4)]
 
 + **Self-Supervised Learning of Depth Inference for Multi-View Stereo** [CVPR2021]
-  + Self-Supervised Learning of Depth Inference for Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Self-Supervised_Learning_of_Depth_Inference_for_Multi-View_Stereo_CVPR_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Yang_Self-Supervised_Learning_of_CVPR_2021_supplemental.pdf)] [[GitHub](https://github.com/JiayuYANG/Self-supervised-CVP-MVSNet)]
+  + Self-Supervised Learning of Depth Inference for Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/CVPR2021/Papers/Yang_Self-Supervised_Learning_of_Depth_Inference_for_Multi-View_Stereo_CVPR_2021_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/Supplemental/Yang_Self-Supervised_Learning_of_CVPR_2021_Supplemental.pdf)] [[GitHub](https://github.com/JiayuYANG/Self-supervised-CVP-MVSNet)]
 
 + **Mˆ3VSNet** [ICIP2021]
   + Mˆ3VSNet: Unsupervised Multi-Metric Multi-View Stereo Network [[Paper](https://arxiv.org/abs/2005.00363)][[GitHub](https://github.com/whubaichuan/M3VSNet)]
 
 + **AA-RMVSNet** [ICCV2021]
-  +  AA-RMVSNet: Adaptive Aggregation Recurrent Multi-View Stereo Network [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_AA-RMVSNet_Adaptive_Aggregation_Recurrent_Multi-View_Stereo_Network_ICCV_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wei_AA-RMVSNet_Adaptive_Aggregation_ICCV_2021_supplemental.pdf)][[GitHub](https://github.com/QT-Zhu/AA-RMVSNet)]
+  +  AA-RMVSNet: Adaptive Aggregation Recurrent Multi-View Stereo Network [[Paper](https://openaccess.thecvf.com/content/ICCV2021/Papers/Wei_AA-RMVSNet_Adaptive_Aggregation_Recurrent_Multi-View_Stereo_Network_ICCV_2021_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/Supplemental/Wei_AA-RMVSNet_Adaptive_Aggregation_ICCV_2021_Supplemental.pdf)][[GitHub](https://github.com/QT-Zhu/AA-RMVSNet)]
 
 + **Digging into Uncertainty in Self-supervised Multi-View Stereo** [ICCV2021]
-  +  Digging into Uncertainty in Self-supervised Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Digging_Into_Uncertainty_in_Self-Supervised_Multi-View_Stereo_ICCV_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Xu_Digging_Into_Uncertainty_ICCV_2021_supplemental.pdf)] [[GitHub](https://github.com/ToughStoneX/U-MVS)]
+  +  Digging into Uncertainty in Self-supervised Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/ICCV2021/Papers/Xu_Digging_Into_Uncertainty_in_Self-Supervised_Multi-View_Stereo_ICCV_2021_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/Supplemental/Xu_Digging_Into_Uncertainty_ICCV_2021_Supplemental.pdf)] [[GitHub](https://github.com/ToughStoneX/U-MVS)]
 
 + **Self-Supervised Multi-View Stereo via Effective Co-segmentation and Data-Augmentation** [AAAI2021]
   +  Self-Supervised Multi-View Stereo via Effective Co-segmentation and Data-Augmentation [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-2549.XuH.pdf)] [[GitHub](https://github.com/ToughStoneX/Self-Supervised-MVS)]
 
 + **MVS2D** [CoRR2021]
-  + MVS2D: Efficient Multi-View Stereo via Attention-Driven 2D Convolutions [[Paper](http://arxiv.org/abs/2104.13325)[[GitHub](https://github.com/zhenpeiyang/MVS2D)][[Webpage](https://zhenpeiyang.github.io/MVS2D/)
+  + MVS2D: Efficient Multi-View Stereo via Attention-Driven 2D Convolutions [[Paper](http://arxiv.org/abs/2104.13325)[[GitHub](https://github.com/zhenpeiyang/MVS2D)][[Webpage](https://zhenpeiyang.github.io/MVS2D/)]
 
 + **IB-MVS** [BMVC2021]
-  + IB-MVS: An Iterative Algorithm for Deep Multi-View Stereo based on Binary Decisions [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0902.pdf)] [[Supp](https://www.bmvc2021-virtualconference.com/assets/supp/0902_supp.zip)]
+  + IB-MVS: An Iterative Algorithm for Deep Multi-View Stereo based on Binary Decisions [[Paper](https://www.bmvc2021-virtualconference.com/assets/Papers/0902.pdf)] [[Supp](https://www.bmvc2021-virtualconference.com/assets/Supp/0902_Supp.zip)]
 
 + **EPP-MVSNet** [ICCV2021]
-  +  EPP-MVSNet: Epipolar-Assembling Based Depth Prediction for Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_EPP-MVSNet_Epipolar-Assembling_Based_Depth_Prediction_for_Multi-View_Stereo_ICCV_2021_paper.pdf)][[GitHub](https://github.com/mindspore-ai/models)]
+  +  EPP-MVSNet: Epipolar-Assembling Based Depth Prediction for Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/ICCV2021/Papers/Ma_EPP-MVSNet_Epipolar-Assembling_Based_Depth_Prediction_for_Multi-View_Stereo_ICCV_2021_Paper.pdf)][[GitHub](https://github.com/mindspore-ai/models)]
 
 + **NerfingMVS** [ICCV2021]
-  +  NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_NerfingMVS_Guided_Optimization_of_Neural_Radiance_Fields_for_Indoor_Multi-View_ICCV_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wei_NerfingMVS_Guided_Optimization_ICCV_2021_supplemental.zip)][[GitHub](https://github.com/weiyithu/NerfingMVS)]
+  +  NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/ICCV2021/Papers/Wei_NerfingMVS_Guided_Optimization_of_Neural_Radiance_Fields_for_Indoor_Multi-View_ICCV_2021_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/Supplemental/Wei_NerfingMVS_Guided_Optimization_ICCV_2021_Supplemental.zip)][[GitHub](https://github.com/weiyithu/NerfingMVS)]
 [[Video](https://youtu.be/i-b5lPnYipA)] [[Webpage](https://weiyithu.github.io/NerfingMVS)]
 
 + **SGT-MVSNet** [ICCV2021]
-  +  Just a Few Points Are All You Need for Multi-View Stereo: A Novel Semi-Supervised Learning Method for Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Just_a_Few_Points_Are_All_You_Need_for_Multi-View_ICCV_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Kim_Just_a_Few_ICCV_2021_supplemental.pdf)]
+  +  Just a Few Points Are All You Need for Multi-View Stereo: A Novel Semi-Supervised Learning Method for Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/ICCV2021/Papers/Kim_Just_a_Few_Points_Are_All_You_Need_for_Multi-View_ICCV_2021_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/Supplemental/Kim_Just_a_Few_ICCV_2021_Supplemental.pdf)]
 
 + **MVSDF** [ICCV2021]
-  + Learning Signed Distance Field for Multi-View Surface Reconstruction [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learning_Signed_Distance_Field_for_Multi-View_Surface_Reconstruction_ICCV_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Zhang_Learning_Signed_Distance_ICCV_2021_supplemental.zip)]
+  + Learning Signed Distance Field for Multi-View Surface Reconstruction [[Paper](https://openaccess.thecvf.com/content/ICCV2021/Papers/Zhang_Learning_Signed_Distance_Field_for_Multi-View_Surface_Reconstruction_ICCV_2021_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/Supplemental/Zhang_Learning_Signed_Distance_ICCV_2021_Supplemental.zip)]
 [[GitHub](https://github.com/jzhangbs/MVSDF)]
 
 + **PatchMatch-RL: Deep MVS With Pixelwise Depth, Normal, and Visibility** [ICCV2021]
-  +  PatchMatch-RL: Deep MVS With Pixelwise Depth, Normal, and Visibility [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Lee_PatchMatch-RL_Deep_MVS_With_Pixelwise_Depth_Normal_and_Visibility_ICCV_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Lee_PatchMatch-RL_Deep_MVS_ICCV_2021_supplemental.pdf)] [[GitHub](https://github.com/leejaeyong7/patchmatch-rl)]
+  +  PatchMatch-RL: Deep MVS With Pixelwise Depth, Normal, and Visibility [[Paper](https://openaccess.thecvf.com/content/ICCV2021/Papers/Lee_PatchMatch-RL_Deep_MVS_With_Pixelwise_Depth_Normal_and_Visibility_ICCV_2021_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/Supplemental/Lee_PatchMatch-RL_Deep_MVS_ICCV_2021_Supplemental.pdf)] [[GitHub](https://github.com/leejaeyong7/patchmatch-rl)]
 
 + **Deep Multi-View Stereo Gone Wild** [3DC2021]
   +  Deep Multi-View Stereo Gone Wild [[Paper](https://conferences.computer.org/3dvpub/pdfs/3DV2021-5lXBZyiG3QAsRBKXHIjqU8/268800a484/268800a484.pdf)] [[GitHub](https://github.com/fdarmon/wild_deep_mvs)][[Webpage](https://imagine.enpc.fr/~darmonf/wild_deep_mvs/)
@@ -533,79 +533,79 @@
   +  DDR-Net: Learning Multi-Stage Multi-View Stereo With Dynamic Depth Range [[Paper](https://arxiv.org/abs/2103.14275)][[GitHub](https://github.com/Tangshengku/DDR-Net)]
 
 + **CVA-MVSNet** [CoRL2021]
-  +  Tandem: Tracking and Dense Mapping in Real-Time Using Deep Multi-View Stereo [[Paper](https://openreview.net/pdf?id=FzMHiDesj0I) [[Supp](https://openreview.net/attachment?id=FzMHiDesj0I&name=supplementary_material)] [[GitHub](https://github.com/tum-vision/tandem)]
+  +  Tandem: Tracking and Dense Mapping in Real-Time Using Deep Multi-View Stereo [[Paper](https://openreview.net/pdf?id=FzMHiDesj0I)] [[Supp](https://openreview.net/attachment?id=FzMHiDesj0I&name=Supplementary_material)] [[GitHub](https://github.com/tum-vision/tandem)]
 [[Video](https://youtu.be/L4C8Q6Gvl1w)] [[Webpage](https://vision.in.tum.de/research/vslam/tandem)]
 
 ### 2020
 
 + **BlendedMVS** [CVPR2020]
-  +  BlendedMVS: A Large-Scale Dataset for Generalized Multi-View Stereo Networks [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_BlendedMVS_A_Large-Scale_Dataset_for_Generalized_Multi-View_Stereo_Networks_CVPR_2020_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yao_BlendedMVS_A_Large-Scale_CVPR_2020_supplemental.pdf)]
+  +  BlendedMVS: A Large-Scale Dataset for Generalized Multi-View Stereo Networks [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Yao_BlendedMVS_A_Large-Scale_Dataset_for_Generalized_Multi-View_Stereo_Networks_CVPR_2020_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/Supplemental/Yao_BlendedMVS_A_Large-Scale_CVPR_2020_Supplemental.pdf)]
  [[GitHub](https://github.com/YoYo000/BlendedMVS)][[Video](https://youtu.be/3mMuSwpjd8A)]
 
 + **MVSNet++** [TIP2020]
   + MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo [[Paper](https://ieeexplore.ieee.org/document/9115828)][[Video](https://www.youtube.com/watch?v=VRTEWxt1P68)]
 
 + **Cas-MVSNet** [CVPR2020]
-  +  Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gu_Cascade_Cost_Volume_for_High-Resolution_Multi-View_Stereo_and_Stereo_Matching_CVPR_2020_paper.pdf)][[GitHub](https://github.com/alibaba/cascade-stereo)][[Video](https://www.youtube.com/watch?v=rcJiRQqDKbo)]
+  +  Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Gu_Cascade_Cost_Volume_for_High-Resolution_Multi-View_Stereo_and_Stereo_Matching_CVPR_2020_Paper.pdf)][[GitHub](https://github.com/alibaba/cascade-stereo)][[Video](https://www.youtube.com/watch?v=rcJiRQqDKbo)]
 
 + **BP-MVSNet** [3DV2020]
   + BP-MVSNet: Belief-Propagation-Layers for Multi-View-Stereo [[Paper](https://www.computer.org/csdl/proceedings-article/3dv/2020/812800a394/1qyxkbFekXC)]
 
 + **UCSNet** [CVPR2020]
-  + Deep Stereo using Adaptive Thin Volume Representation with Uncertainty Awareness [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Deep_Stereo_Using_Adaptive_Thin_Volume_Representation_With_Uncertainty_Awareness_CVPR_2020_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Cheng_Deep_Stereo_Using_CVPR_2020_supplemental.pdf)] [[[GitHub](https://github.com/touristCheng/UCSNet)]
+  + Deep Stereo using Adaptive Thin Volume Representation with Uncertainty Awareness [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Cheng_Deep_Stereo_Using_Adaptive_Thin_Volume_Representation_With_Uncertainty_Awareness_CVPR_2020_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/Supplemental/Cheng_Deep_Stereo_Using_CVPR_2020_Supplemental.pdf)] [[[GitHub](https://github.com/touristCheng/UCSNet)]
 
 + **Fast-MVSNet** [CVPR2020]
-  +  Fast-MVSNet: Sparse-to-Dense Multi-View Stereo with Learned Propagation and Gauss-Newton Refinement [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Fast-MVSNet_Sparse-to-Dense_Multi-View_Stereo_With_Learned_Propagation_and_Gauss-Newton_Refinement_CVPR_2020_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yu_Fast-MVSNet_Sparse-to-Dense_Multi-View_CVPR_2020_supplemental.pdf)] [[GitHub](https://github.com/svip-lab/FastMVSNet)][[Video](https://www.youtube.com/watch?v=34c3Vf9g7kM)]
+  +  Fast-MVSNet: Sparse-to-Dense Multi-View Stereo with Learned Propagation and Gauss-Newton Refinement [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Yu_Fast-MVSNet_Sparse-to-Dense_Multi-View_Stereo_With_Learned_Propagation_and_Gauss-Newton_Refinement_CVPR_2020_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/Supplemental/Yu_Fast-MVSNet_Sparse-to-Dense_Multi-View_CVPR_2020_Supplemental.pdf)] [[GitHub](https://github.com/svip-lab/FastMVSNet)][[Video](https://www.youtube.com/watch?v=34c3Vf9g7kM)]
 
 + **CIDER** [AAAI2020]
   + Learning Inverse Depth Regression for Multi-View Stereo with Correlation Cost Volume [[Paper](https://ojs.aaai.org//index.php/AAAI/article/view/6939/6793)]
 
 + **AttMVSNet** [CVPR2020]
-  +  Attention-Aware Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Attention-Aware_Multi-View_Stereo_CVPR_2020_paper.pdf)]
+  +  Attention-Aware Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Luo_Attention-Aware_Multi-View_Stereo_CVPR_2020_Paper.pdf)]
 
 + **A Novel Recurrent Encoder-Decoder Structure for Large-Scale Multi-View Stereo Reconstruction from an Open Aerial Dataset** [CVPR2020]
-  +  A Novel Recurrent Encoder-Decoder Structure for Large-Scale Multi-View Stereo Reconstruction from an Open Aerial Dataset [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_A_Novel_Recurrent_Encoder-Decoder_Structure_for_Large-Scale_Multi-View_Stereo_Reconstruction_CVPR_2020_paper.pdf)] [[GitHub](https://github.com/gpcv-liujin/REDNet)][[Video](https://www.youtube.com/watch?v=gZds3nKoPR8)]
+  +  A Novel Recurrent Encoder-Decoder Structure for Large-Scale Multi-View Stereo Reconstruction from an Open Aerial Dataset [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Liu_A_Novel_Recurrent_Encoder-Decoder_Structure_for_Large-Scale_Multi-View_Stereo_Reconstruction_CVPR_2020_Paper.pdf)] [[GitHub](https://github.com/gpcv-liujin/REDNet)][[Video](https://www.youtube.com/watch?v=gZds3nKoPR8)]
 
 + **CVP-MVSNet** [CVPR2020]
-  +  Cost Volume Pyramid Based Depth Inference for Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Cost_Volume_Pyramid_Based_Depth_Inference_for_Multi-View_Stereo_CVPR_2020_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yang_Cost_Volume_Pyramid_CVPR_2020_supplemental.pdf)] [[GitHub](https://github.com/JiayuYANG/CVP-MVSNet)]
+  +  Cost Volume Pyramid Based Depth Inference for Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Yang_Cost_Volume_Pyramid_Based_Depth_Inference_for_Multi-View_Stereo_CVPR_2020_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/Supplemental/Yang_Cost_Volume_Pyramid_CVPR_2020_Supplemental.pdf)] [[GitHub](https://github.com/JiayuYANG/CVP-MVSNet)]
 
 + **PVAMVSNet** [ECCV2020]
-  +  Pyramid Multi-View Stereo Net with Self-Adaptive View Aggregation [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540732.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540732-supp.zip)] [[GitHub](https://github.com/yhw-yhw/PVAMVSNet)]
+  +  Pyramid Multi-View Stereo Net with Self-Adaptive View Aggregation [[Paper](https://www.ecva.net/Papers/eccv_2020/Papers_ECCV/Papers/123540732.pdf)] [[Supp](https://www.ecva.net/Papers/eccv_2020/Papers_ECCV/Papers/123540732-Supp.zip)] [[GitHub](https://github.com/yhw-yhw/PVAMVSNet)]
 
 + **Dense Hybrid Recurrent Multi-View Stereo Net with Dynamic Consistency Checking** [ECCV2020]
-  +  Dense Hybrid Recurrent Multi-View Stereo Net with Dynamic Consistency Checking [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490647.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490647-supp.zip)] [[GitHub](https://github.com/yhw-yhw/D2HC-RMVSNet)]
+  +  Dense Hybrid Recurrent Multi-View Stereo Net with Dynamic Consistency Checking [[Paper](https://www.ecva.net/Papers/eccv_2020/Papers_ECCV/Papers/123490647.pdf)] [[Supp](https://www.ecva.net/Papers/eccv_2020/Papers_ECCV/Papers/123490647-Supp.zip)] [[GitHub](https://github.com/yhw-yhw/D2HC-RMVSNet)]
 
 + **Learning to Adapt Multi-View Stereo by Self-Supervision** [BMVC2020]
-  + Learning to Adapt Multi-View Stereo by Self-Supervision [[Paper](https://www.bmvc2020-conference.com/assets/papers/0375.pdf)] [[Supp](https://www.bmvc2020-conference.com/assets/supp/0375_supp.pdf)]
+  + Learning to Adapt Multi-View Stereo by Self-Supervision [[Paper](https://www.bmvc2020-conference.com/assets/Papers/0375.pdf)] [[Supp](https://www.bmvc2020-conference.com/assets/Supp/0375_Supp.pdf)]
 
 + **Vis-MVSNet** [BMVC2020]
-  +  Visibility-Aware Multi-View Stereo Network [[Paper](https://www.bmvc2020-conference.com/assets/papers/0421.pdf)] [[Supp](https://www.bmvc2020-conference.com/assets/supp/0421_supp.pdf)] [[GitHub](https://github.com/jzhangbs/Vis-MVSNet)]
+  +  Visibility-Aware Multi-View Stereo Network [[Paper](https://www.bmvc2020-conference.com/assets/Papers/0421.pdf)] [[Supp](https://www.bmvc2020-conference.com/assets/Supp/0421_Supp.pdf)] [[GitHub](https://github.com/jzhangbs/Vis-MVSNet)]
 
 + **REDNet** [CVPR2020]
-  + A Novel Recurrent Encoder-Decoder Structure for Large-Scale Multi-View Stereo Reconstruction from an Open Aerial Dataset [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_A_Novel_Recurrent_Encoder-Decoder_Structure_for_Large-Scale_Multi-View_Stereo_Reconstruction_CVPR_2020_paper.pdf)][[GitHub](https://github.com/gpcv-liujin/REDNet)][[Video](https://www.youtube.com/watch?v=gZds3nKoPR8)]  
+  + A Novel Recurrent Encoder-Decoder Structure for Large-Scale Multi-View Stereo Reconstruction from an Open Aerial Dataset [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Liu_A_Novel_Recurrent_Encoder-Decoder_Structure_for_Large-Scale_Multi-View_Stereo_Reconstruction_CVPR_2020_Paper.pdf)][[GitHub](https://github.com/gpcv-liujin/REDNet)][[Video](https://www.youtube.com/watch?v=gZds3nKoPR8)]  
 
 + **NRMVS** [WACV2020]
-  + NRMVS: Non-Rigid Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Innmann_NRMVS_Non-Rigid_Multi-view_Stereo_WACV_2020_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_WACV_2020/supplemental/Innmann_NRMVS_Non-Rigid_Multi-view_WACV_2020_supplemental.pdf)]
+  + NRMVS: Non-Rigid Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content_WACV_2020/Papers/Innmann_NRMVS_Non-Rigid_Multi-view_Stereo_WACV_2020_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_WACV_2020/Supplemental/Innmann_NRMVS_Non-Rigid_Multi-view_WACV_2020_Supplemental.pdf)]
 
 ### 2019
 
 + **Multi-View Stereo by Temporal Nonparametric Fusion** [ICCV2019]
-  +  Multi-View Stereo by Temporal Nonparametric Fusion [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Hou_Multi-View_Stereo_by_Temporal_Nonparametric_Fusion_ICCV_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Hou_Multi-View_Stereo_by_ICCV_2019_supplemental.pdf)] [[GitHub](https://github.com/AaltoML/GP-MVS)][[Video](https://www.youtube.com/watch?v=iellGrlNW7k)] [[Webpage](https://aaltoml.github.io/GP-MVS/)]
+  +  Multi-View Stereo by Temporal Nonparametric Fusion [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/Papers/Hou_Multi-View_Stereo_by_Temporal_Nonparametric_Fusion_ICCV_2019_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/Supplemental/Hou_Multi-View_Stereo_by_ICCV_2019_Supplemental.pdf)] [[GitHub](https://github.com/AaltoML/GP-MVS)][[Video](https://www.youtube.com/watch?v=iellGrlNW7k)] [[Webpage](https://aaltoml.github.io/GP-MVS/)]
 
 + **DPSNet** [ICLR2019]
   + DPSNet: End-to-end Deep Plane Sweep Stereo [[Paper](https://openreview.net/pdf?id=ryeYHi0ctQ)] [[GitHub](https://github.com/sunghoonim/DPSNet)]
 
 + **RMVSNet** [CVPR2019]
-  +  Recurrent Mvsnet for High-Resolution Multi-View Stereo Depth Inference [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yao_Recurrent_MVSNet_for_High-Resolution_Multi-View_Stereo_Depth_Inference_CVPR_2019_paper.pdf)] [[GitHub](https://github.com/YoYo000/MVSNet)]
+  +  Recurrent Mvsnet for High-Resolution Multi-View Stereo Depth Inference [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/Papers/Yao_Recurrent_MVSNet_for_High-Resolution_Multi-View_Stereo_Depth_Inference_CVPR_2019_Paper.pdf)] [[GitHub](https://github.com/YoYo000/MVSNet)]
 
 + **PointMVSNet** [ICCV2019]
-  +  Point-Based Multi-View Stereo Network [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Point-Based_Multi-View_Stereo_Network_ICCV_2019_paper.pdf)] [[GitHub](https://github.com/callmeray/PointMVSNet)][[Video](https://www.youtube.com/watch?v=my3jocjpD0U)] [[Webpage](http://hansf.me/projects/PMVSNet/)]
+  +  Point-Based Multi-View Stereo Network [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/Papers/Chen_Point-Based_Multi-View_Stereo_Network_ICCV_2019_Paper.pdf)] [[GitHub](https://github.com/callmeray/PointMVSNet)][[Video](https://www.youtube.com/watch?v=my3jocjpD0U)] [[Webpage](http://hansf.me/projects/PMVSNet/)]
 
 + **P-MVSNet** [ICCV2019]
-  + P-MVSNet: Learning Patch-Wise Matching Confidence Aggregation for Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Luo_P-MVSNet_Learning_Patch-Wise_Matching_Confidence_Aggregation_for_Multi-View_Stereo_ICCV_2019_paper.pdf)]
+  + P-MVSNet: Learning Patch-Wise Matching Confidence Aggregation for Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/Papers/Luo_P-MVSNet_Learning_Patch-Wise_Matching_Confidence_Aggregation_for_Multi-View_Stereo_ICCV_2019_Paper.pdf)]
 
 + **MVSCRF** [ICCV2019]
-  +  MVSCRF: Learning Multi-View Stereo with Conditional Random Fields [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xue_MVSCRF_Learning_Multi-View_Stereo_With_Conditional_Random_Fields_ICCV_2019_paper.pdf)]
+  +  MVSCRF: Learning Multi-View Stereo with Conditional Random Fields [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/Papers/Xue_MVSCRF_Learning_Multi-View_Stereo_With_Conditional_Random_Fields_ICCV_2019_Paper.pdf)]
 
 + **Learning Unsupervised Multi-View Stereopsis via Robust Photometric Consistency** [CoRR2019]
   +  Learning Unsupervised Multi-View Stereopsis via Robust Photometric Consistency [[Paper](https://arxiv.org/abs/1905.02706)][[GitHub](https://github.com/tejaskhot/unsup_mvs)][[Webpage](https://tejaskhot.github.io/unsup_mvs/)]
@@ -616,17 +616,17 @@
 ### 2018
 
 + **DeepMVS** [CVPR2018]
-  + DeepMVS: Learning Multi-View Stereopsis [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_DeepMVS_Learning_Multi-View_CVPR_2018_paper.pdf) [[Supp](https://openaccess.thecvf.com/content_cvpr_2018/Supplemental/2703-supp.pdf)][[GitHub](https://github.com/phuang17/DeepMVS)][[Webpage](https://phuang17.github.io/DeepMVS/index.html)]
+  + DeepMVS: Learning Multi-View Stereopsis [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/Papers/Huang_DeepMVS_Learning_Multi-View_CVPR_2018_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2018/Supplemental/2703-Supp.pdf)][[GitHub](https://github.com/phuang17/DeepMVS)][[Webpage](https://phuang17.github.io/DeepMVS/index.html)]
 
 + **MVDepthNet** [3DV2018]
   + MVDepthNet: Real-time Multiview Depth Estimation Neural Network [[Paper](https://www.computer.org/csdl/proceedings-article/3dv/2018/842500a248/17D45WgziSk)] [[GitHub](https://github.com/HKUST-Aerial-Robotics/MVDepthNet)]
 
 + **MVSNet** [ECCV2018]
-  + MVSNet: Depth Inference for Unstructured Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yao_Yao_MVSNet_Depth_Inference_ECCV_2018_paper.pdf)] [[GitHub](https://github.com/YoYo000/MVSNet)] [[GitHub](https://github.com/xy-guo/MVSNet_pytorch)]
+  + MVSNet: Depth Inference for Unstructured Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/Papers/Yao_Yao_MVSNet_Depth_Inference_ECCV_2018_Paper.pdf)] [[GitHub](https://github.com/YoYo000/MVSNet)] [[GitHub](https://github.com/xy-guo/MVSNet_pytorch)]
 
 ### 2017
 + **SurfaceNet** [ICCV2017]
-  +  SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ji_SurfaceNet_An_End-To-End_ICCV_2017_paper.pdf)] [[GitHub](https://github.com/mjiUST/SurfaceNet)]
+  +  SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/Papers/Ji_SurfaceNet_An_End-To-End_ICCV_2017_Paper.pdf)] [[GitHub](https://github.com/mjiUST/SurfaceNet)]
 
 
 
