@@ -5,7 +5,7 @@
 > Benchmark [Benchmark](#Benchmark)
 >
 > 
-> Traditional [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [Early](#early)
+> Traditional [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [Early](#early)
 > 
 > Learning-based [2024](#2024-1) | [2023](#2023-1) | [2022](#2022-1) | [2021](#2021-1) | [2020](#2020-1) | [2019](#2019-1) | [2018](#2018-1) | [2017](#2017-1)
 
@@ -37,7 +37,21 @@
 
 ## Traditional MVS Methods (PatchMatch-based)
 
+### 2025
+
++ **DVP-MVS** [AAAI2025]
+  +  DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo [[Paper](https://arxiv.org/pdf/2412.11578)]
+
++ **MSP-MVS** [AAAI2025]
+  +  MSP-MVS: Multi-Granularity Segmentation Prior Guided Multi-View Stereo [[Paper](https://arxiv.org/pdf/2407.19323)]
+
 ### 2024
+
++ **SD-MVS** [AAAI2024]
+  +  SD-MVS: Segmentation-Driven Deformation Multi-View Stereo with Spherical Refinement and EM optimization [[Paper](https://arxiv.org/pdf/2401.06385)]
+
++ **TSAR-MVS** [PR2024]
+  +  TSAR-MVS: Textureless-aware Segmentation and Correlative Refinement Guided Multi-View Stereo [[Paper](https://arxiv.org/abs/2308.09990)]
 
 + **Multiview Stereo via Noise Suppression PatchMatch** [TIM2024]
   +  Multiview Stereo via Noise Suppression PatchMatch [[Paper](https://ieeexplore.ieee.org/abstract/document/10443640)]
@@ -49,9 +63,6 @@
 
 + **HPM-MVS** [ICCV2023]
   +  Hierarchical Prior Mining for Non-local Multi-View Stereo [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ren_Hierarchical_Prior_Mining_for_Non-local_Multi-View_Stereo_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Ren_Hierarchical_Prior_Mining_ICCV_2023_supplemental.pdf) [[Paper](https://arxiv.org/abs/2303.09758)][[GitHub](https://github.com/CLinvx/HPM-MVS)]
-
-+ **TSAR-MVS** [PR2023]
-  +  TSAR-MVS: Textureless-aware Segmentation and Correlative Refinement Guided Multi-View Stereo [[Paper](https://arxiv.org/abs/2308.09990)]
 
 + **Hybrid-MVS** [TCSVT2023]
   + Hybrid-MVS: Robust Multi-View Reconstruction with Hybrid Optimization of Visual and Depth Cues [[Paper](https://ieeexplore.ieee.org/abstract/document/10126077)]
