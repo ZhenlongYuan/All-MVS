@@ -518,7 +518,7 @@
   +  PatchMatch-RL: Deep MVS With Pixelwise Depth, Normal, and Visibility [[Paper](https://openaccess.thecvf.com/content/ICCV2021/Papers/Lee_PatchMatch-RL_Deep_MVS_With_Pixelwise_Depth_Normal_and_Visibility_ICCV_2021_Paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/Supplemental/Lee_PatchMatch-RL_Deep_MVS_ICCV_2021_Supplemental.pdf)] [[GitHub](https://github.com/leejaeyong7/patchmatch-rl)]
 
 + **Deep Multi-View Stereo Gone Wild** [3DC2021]
-  +  Deep Multi-View Stereo Gone Wild [[Paper](https://conferences.computer.org/3dvpub/pdfs/3DV2021-5lXBZyiG3QAsRBKXHIjqU8/268800a484/268800a484.pdf)] [[GitHub](https://github.com/fdarmon/wild_deep_mvs)][[Webpage](https://imagine.enpc.fr/~darmonf/wild_deep_mvs/)
+  +  Deep Multi-View Stereo Gone Wild [[Paper](https://conferences.computer.org/3dvpub/pdfs/3DV2021-5lXBZyiG3QAsRBKXHIjqU8/268800a484/268800a484.pdf)] [[GitHub](https://github.com/fdarmon/wild_deep_mvs)][[Webpage](https://imagine.enpc.fr/~darmonf/wild_deep_mvs/)]
 
 + **HighRes-MVSNet** [IEEE-Access2021]
   + HighRes-MVSNet: A Fast Multi-View Stereo Network for Dense 3D Reconstruction From High-Resolution Images [[Paper](https://ieeexplore.ieee.org/document/9319163)]
