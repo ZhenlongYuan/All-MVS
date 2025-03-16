@@ -39,15 +39,8 @@
 
 ### 2024
 
-  + 💻 SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ji_SurfaceNet_An_End-To-End_ICCV_2017_paper.pdf)] [[Github](https://github.com/mjiUST/SurfaceNet)] [[T-PAMI](https://ieeexplore.ieee.org/document/9099504)]
-  + Learning a Multi-View Stereo Machine [[paper](https://papers.nips.cc/paper/2017/file/9c838d2e45b2ad1094d42f4ef36764f6-Paper.pdf)] (LSMs can produce two kinds of outputs - *voxel occupancy grids* decoded from 3D Grid or *per-view depth maps* decoded after a projection operation.)
-  + Learned Multi-Patch Similarity [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Hartmann_Learned_Multi-Patch_Similarity_ICCV_2017_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_ICCV_2017/supplemental/Hartmann_Learned_Multi-Patch_Similarity_ICCV_2017_supplemental.pdf)] (Note: Learning to measure multi-image patch similiarity, NOT end-to-end learning MVS pipeline)
-
-
-  + 💻 GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo
-- [Publication](https://img.shields.io/badge/2024-CVPR-43aa8b)  [[Paper](http://img.shields.io/badge/arxiv-arxiv.2404.07992-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2404.07992)
-- [Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [[GitHub stars](https://img.shields.io/github/stars/Wuuu3511/GoMVS?logo=github&label=Stars)](https://github.com/Wuuu3511/GoMVS)
-- [[Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://wuuu3511.github.io/gomvs/)
++ **GoMVS** [CVPR2024]
+  + GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo [[Paper](https://arxiv.org/abs/2404.07992)] [[GitHub stars](https://github.com/Wuuu3511/GoMVS)] [[Webpage](https://wuuu3511.github.io/gomvs/)]
 
 #### GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo
 
