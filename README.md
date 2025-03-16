@@ -35,7 +35,7 @@
 + **Multi-sensor large-scale dataset for multi-view 3D reconstruction** [CVPR2023]
   + Multi-sensor large-scale dataset for multi-view 3D reconstruction [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Voynov_Multi-Sensor_Large-Scale_Dataset_for_Multi-View_3D_Reconstruction_CVPR_2023_paper.pdf)] [[website](https://skoltech3d.appliedai.tech/)]
 
-## PatchMatch-based MVS Methods
+## Traditional MVS Methods (PatchMatch-based)
 
 ### 2024
 
